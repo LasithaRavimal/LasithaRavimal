@@ -1,4 +1,4 @@
-# 💫 About Me: 📫 How to reach me lasitharavimal17@gmail.com<br><br>⚡ Fun fact I think I am funny.<br><br>🌱 I’m currently learning MERN stack, Android,
+# 💫 About Me: 📫 How to reach me lasitharavimal7@gmail.com<br><br>⚡ Fun fact I think I am funny.<br><br>🌱 I’m currently learning MERN stack, Android,
 
 
 ## 🌐 Socials:
