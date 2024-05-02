@@ -1,6 +1,5 @@
-# 💫 About Me: 📫 How to reach me lasitharavimal7@gmail.com<br><br>⚡ Fun fact I think I am funny.<br><br>🌱 I’m currently learning MERN stack, Android,
-
-
+# 💫 About Me: 📫 How to reach me lasitharavimal7@gmail.com<br><br>⚡ Fun fact I think I am funny.<br><br>🌱 I’m currently learning MERN stack, Android,!
+ ![1674617947228](https://github.com/LasithaRavimal/LasithaRavimal/assets/125814086/05fbe152-e690-4447-836a-abb43a991929)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lasitha-ravimal-6890b8213) 
 
