@@ -1,4 +1,4 @@
-# 💫 About Me: 📫 How to reach me lasitharavimal7@gmail.com<br><br>⚡ Fun fact I think I am funny.<br><br>🌱 I’m currently learning MERN stack, Android,!
+# 💫 About Me: 📫 How to reach me lasitharavimal7@gmail.com<br><br>⚡ Fun fact I think I am funny.<br><br>🌱 I’m currently learning MERN stack, Kotlin
    
 ![1_SYTArEGxMALeKHPmIu-mPA](https://github.com/LasithaRavimal/LasithaRavimal/assets/125814086/97eb37f8-7c77-42af-a009-2d2832750668)
 
